@@ -1,0 +1,42 @@
+
+
+img{
+	width: 300px;
+	height: 200px;
+	border:5px groove pink;
+
+}
+ul{list-style-type:none;
+	margin-top: 150px; 
+   
+   }
+li{
+	float: left;
+	transform-origin: center;
+
+
+
+}
+li:hover{
+	    
+	
+	     position: relative;
+	     z-index: 100;
+	     transform: rotate(0deg) scale(1.5);
+	     transition: all 2s;
+	 }
+	
+	div{ 
+
+	padding: 30px;
+	width: 100%;
+	height: 850px;
+	background-image: url(tpg/7.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: auto;
+	margin-right: auto;
+   }
+
+
+
